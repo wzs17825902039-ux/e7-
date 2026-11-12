@@ -17,7 +17,9 @@
 
 ## 安装与启动
 
-仓库提供源码，**不包含本地 EXE、MuMu、ADB工具包或个人配置**。如果 [Releases](https://github.com/wzs17825902039-ux/e7-/releases) 没有附件，请源码运行或自行构建。
+**普通用户优先下载 [Windows 预发行版 v0.3.0-beta.1](https://github.com/wzs17825902039-ux/e7-/releases/tag/v0.3.0-beta.1)**：在 Assets 中下载 EXE，放入独立可写文件夹后双击，无需安装Python。中文说明与SHA256校验文件一并提供。更新前关闭助手，保留原来的配置与运行记录。
+
+源码仓库不提交EXE；发行附件也不包含MuMu、ADB工具包或个人配置。仍需MuMu、实际ADB及WebView2 Runtime。开发者可按下面步骤源码运行。
 
 需要 Windows、Python 3.11+、MuMu中的国服游戏以及 Microsoft Edge WebView2 Runtime。截图分辨率需为 **1280×720**。建议 Python 3.11，其他版本的OCR依赖兼容性请另行核实。
 
