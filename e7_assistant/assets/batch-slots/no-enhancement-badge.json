@@ -1,0 +1,7 @@
+{
+  "source": "docs/assets/batch-live-2026-11-10/01-plus0.png",
+  "reference_size": [1661, 933],
+  "crop": [100, 168, 140, 195],
+  "meaning": "已登记+0装备的无强化徽标背景；不匹配时拒识，不补成0",
+  "verification": "本次仅生成资产，尚未执行回归或实机验证"
+}

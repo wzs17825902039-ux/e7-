@@ -1,0 +1,24 @@
+[
+  {
+    "state": "unlocked",
+    "source": "runs\\lock-sample-navigation-f2ca1447\\workflow-0004.png",
+    "sha256": "3380d770cdfa0b2bfc63ab952a82a2840a30aff2d59a4779ae949d16461c5d1a",
+    "box": [
+      1170,
+      166,
+      1215,
+      201
+    ]
+  },
+  {
+    "state": "locked",
+    "source": "runs\\lock-sample-navigation-f2ca1447\\workflow-0013.png",
+    "sha256": "f60cfd39ba1258b2b6a370f4858b0fa0ec409c48f0a378eff32a3c7a9d03e700",
+    "box": [
+      1170,
+      166,
+      1215,
+      201
+    ]
+  }
+]

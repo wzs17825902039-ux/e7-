@@ -1,0 +1,26 @@
+[
+  {
+    "equipment_id": "live-20261109-armor-001", "rarity": "purple", "level": 85,
+    "enhancement": 0, "slot": "armor",
+    "stats": {"def_pct": 8, "speed": 3, "crit": 3},
+    "main_stat_usable": true, "recognition_ok": true, "game_score": 23
+  },
+  {
+    "equipment_id": "live-20261109-armor-001", "rarity": "purple", "level": 85,
+    "enhancement": 3, "slot": "armor",
+    "stats": {"def_pct": 16, "speed": 3, "crit": 3},
+    "main_stat_usable": true, "recognition_ok": true, "game_score": 34
+  },
+  {
+    "equipment_id": "live-20261109-armor-001", "rarity": "purple", "level": 85,
+    "enhancement": 7, "slot": "armor",
+    "stats": {"def_pct": 16, "speed": 5, "crit": 3},
+    "main_stat_usable": true, "recognition_ok": true, "game_score": 42
+  },
+  {
+    "equipment_id": "live-20261109-armor-001", "rarity": "purple", "level": 85,
+    "enhancement": 9, "slot": "armor",
+    "stats": {"def_pct": 16, "speed": 9, "crit": 3},
+    "main_stat_usable": true, "recognition_ok": true, "game_score": 52
+  }
+]

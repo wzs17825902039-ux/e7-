@@ -1,0 +1,7 @@
+{
+  "source": "runs/selected-inventory-resume-268a8262/workflow-0011.png",
+  "native_box": [642, 317, 655, 330],
+  "preprocessing": "neutral RGB channel range <35 and mean >100, binary 255",
+  "meaning": "selected card percentage glyph after 11",
+  "template": "percent-selected.png"
+}

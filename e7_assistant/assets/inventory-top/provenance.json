@@ -1,0 +1,14 @@
+{
+  "source": "runs\\top-zero-sample-564e31dc\\head.png",
+  "sha256": "a5f2b7ade3da17e816f2fc92e6c7ba4608f8935d7d265bbb1540693537a3d50c",
+  "box": [
+    818,
+    156,
+    830,
+    172
+  ],
+  "resolution": [
+    1280,
+    720
+  ]
+}

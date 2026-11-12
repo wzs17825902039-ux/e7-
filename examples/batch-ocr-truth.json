@@ -1,0 +1,29 @@
+{
+  "source": "用户截图17、18、19逐件目视核对；仅头盔，索引从0开始，按行排列",
+  "initial": [
+    ["purple",22,{"atk_flat":32,"crit":5,"speed":3}],
+    ["red",32,{"resistance":8,"def_flat":34,"hp_pct":7,"cdmg":7}],
+    ["red",36,{"hp_pct":7,"cdmg":7,"crit":5,"speed":4}],
+    ["purple",19,{"effectiveness":5,"def_flat":29,"speed":3}],
+    ["purple",25,{"crit":4,"speed":4,"effectiveness":6}],
+    ["purple",23,{"atk_flat":40,"crit":4,"speed":4}],
+    ["purple",24,{"speed":4,"def_flat":31,"effectiveness":7}],
+    ["red",27,{"speed":3,"cdmg":7,"atk_flat":39,"resistance":5}],
+    ["purple",22,{"def_flat":31,"resistance":5,"speed":4}],
+    ["red",32,{"def_flat":34,"def_pct":7,"crit":5,"effectiveness":8}],
+    ["purple",20,{"speed":3,"atk_pct":5,"crit":3}],
+    ["red",28,{"atk_flat":44,"hp_pct":4,"resistance":7,"speed":4}],
+    ["purple",19,{"speed":3,"crit":3,"atk_flat":42}],
+    ["purple",26,{"speed":3,"resistance":7,"effectiveness":8}],
+    ["purple",19,{"atk_pct":5,"speed":3,"atk_flat":35}],
+    ["red",23,{"speed":3,"def_flat":28,"effectiveness":4,"atk_pct":5}]
+  ],
+  "after": [
+    [6,40,[32,8,7]],[8,49,[8,101,7,7]],[6,54,[7,14,8,4]],
+    [8,38,[12,29,5]],[6,40,[4,4,15]],[8,43,[40,8,7]],
+    [6,38,[4,59,11]],[6,47,[3,13,39,12]],[6,40,[31,17,4]],
+    [6,46,[91,7,5,8]],[7,43,[3,5,13]],[7,47,[88,4,7,8]],
+    [7,39,[7,6,42]],[7,43,[3,13,12]],[7,34,[10,3,71]],[7,38,[5,57,4,5]]
+  ],
+  "deselected_page_selected": [11,15]
+}

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "e7-forge-assistant"
+version = "0.3.0"
+description = "第七史诗国服装备强化评估与MuMu接入基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+vision = ["Pillow>=10", "opencv-python>=4.8", "numpy>=1.24"]
+ocr = ["Pillow>=10", "rapidocr_onnxruntime==1.4.4", "opencv-python>=4.8", "numpy>=1.24"]
+desktop = ["pywebview>=5,<7"]
+
+[project.scripts]
+e7-assistant = "e7_assistant.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["e7_assistant*"]
+
+[tool.setuptools.package-data]
+e7_assistant = ["*.ps1", "assets/stat-icons/*.png", "assets/batch-slots/*.png", "assets/batch-materials/*.png", "assets/locks/*.png", "assets/locks/*.json", "assets/inventory-mode/*.png", "assets/inventory-mode/*.json", "assets/inventory-tail/*.png", "assets/inventory-tail/*.json", "assets/branding/*.png", "assets/branding/*.ico", "assets/web/*.html", "assets/web/assets/*.js", "assets/web/assets/*.css"]

@@ -1,0 +1,12 @@
+{
+  "equipment_id": "synthetic-red-001",
+  "rarity": "red",
+  "level": 85,
+  "enhancement": 0,
+  "slot": "weapon",
+  "stats": {"atk_pct": 8, "crit": 5, "cdmg": 7, "hp_pct": 8},
+  "main_stat_usable": true,
+  "recognition_ok": true,
+  "preferred_use": "slow_dps",
+  "game_score": null
+}

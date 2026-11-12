@@ -1,0 +1,18 @@
+{
+  "source": "MuMu 127.0.0.1:16384 actual screenshot, 2026-11-10",
+  "size": [1280, 720],
+  "check.png": {
+    "fixture": "docs/assets/sale-preview-2026-11-10/organize.png",
+    "crop": [38, 160, 88, 198],
+    "transform": "green > 65, green > red * 1.25, green > blue * 1.4"
+  },
+  "gold-reward.png": {
+    "fixture": "docs/assets/sale-preview-2026-11-10/sale-dialog.png",
+    "crop": [552, 339, 619, 388]
+  },
+  "powder-reward.png": {
+    "fixture": "docs/assets/sale-preview-2026-11-10/sale-dialog.png",
+    "crop": [659, 339, 728, 388]
+  },
+  "scope": "Only equipment sale reward layout; jewelry and mixed rewards require separate validation."
+}

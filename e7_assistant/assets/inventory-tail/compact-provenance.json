@@ -1,0 +1,12 @@
+{
+  "source": "D:\\e7打铁助手\\runs\\workflow-2b455956177c\\workflow-0074.png",
+  "sha256": "f8d58a4b1a05a7803973f7468b36824ff063b66fb595a027dfee02ed338a7fbd",
+  "box": [
+    146,
+    145,
+    816,
+    710
+  ],
+  "annotation": "只有第一行第0格有装备，其他区域为空；第一格不用于空背景比较",
+  "input_performed": false
+}

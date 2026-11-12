@@ -1,0 +1,32 @@
+[
+  {
+    "state": "batch-unlocked",
+    "source": "runs/batch-lock-sample-687424b0/workflow-0001.png",
+    "sha256": "575a875c1baf0dc3d30857e045fea4376121e9720002eae7b38db35d1346cbe2",
+    "reference_size": [
+      1661,
+      933
+    ],
+    "box": [
+      274,
+      172,
+      327,
+      213
+    ]
+  },
+  {
+    "state": "batch-locked",
+    "source": "runs/lock-stable-8b6c84f7.png",
+    "sha256": "a54935c51924004e9e4c6d44cfa5eb8ad240146f39858b7ddab39945288dc837",
+    "reference_size": [
+      1661,
+      933
+    ],
+    "box": [
+      274,
+      172,
+      327,
+      213
+    ]
+  }
+]

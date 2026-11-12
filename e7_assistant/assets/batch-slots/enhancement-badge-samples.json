@@ -1,0 +1,56 @@
+{
+  "reference_size": [
+    1661,
+    933
+  ],
+  "samples": [
+    {
+      "file": "enhancement-badge-06.png",
+      "source": "runs\\selected-inventory-resume-6bc910cd\\workflow-0024.png",
+      "card_index": 5,
+      "enhancement": 6,
+      "crop": [
+        417,
+        335,
+        457,
+        362
+      ]
+    },
+    {
+      "file": "enhancement-badge-06-9.png",
+      "source": "runs\\selected-inventory-resume-6bc910cd\\workflow-0024.png",
+      "card_index": 9,
+      "enhancement": 6,
+      "crop": [
+        417,
+        503,
+        457,
+        530
+      ]
+    },
+    {
+      "file": "enhancement-badge-06-11.png",
+      "source": "runs\\selected-inventory-resume-6bc910cd\\workflow-0024.png",
+      "card_index": 11,
+      "enhancement": 6,
+      "crop": [
+        1050,
+        503,
+        1090,
+        530
+      ]
+    },
+    {
+      "file": "enhancement-badge-06-14.png",
+      "source": "runs\\selected-inventory-resume-6bc910cd\\workflow-0024.png",
+      "card_index": 14,
+      "enhancement": 6,
+      "crop": [
+        733,
+        670,
+        773,
+        697
+      ]
+    }
+  ]
+}

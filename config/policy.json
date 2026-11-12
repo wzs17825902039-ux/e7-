@@ -1,0 +1,22 @@
+{
+  "initial_speed_min": 2,
+  "purple_plus6_speed_min": 8,
+  "purple_plus9_speed_min": 12,
+  "retain_speed_min": 16,
+  "priority_speed_min": 20,
+  "allow_draft_quality_rules": false,
+  "game_score_formula_confirmed": false,
+  "game_score_gates": {},
+  "ignore_equipment_level": true,
+  "sell_failed_purple": true,
+  "red_profile_enabled": true,
+  "sell_failed_red": true,
+  "red_left_gates": {"0":20,"3":26,"6":34,"9":40,"12":46,"15":52},
+  "red_right_gates": {"0":18,"3":24,"6":32,"9":38,"12":44,"15":50},
+  "discard_flat_right_without_speed": true,
+  "right_main_stats": {
+    "necklace": ["atk_pct","hp_pct","def_pct","crit","cdmg","atk_flat","hp_flat","def_flat"],
+    "ring": ["atk_pct","hp_pct","def_pct","effectiveness","resistance","atk_flat","hp_flat","def_flat"],
+    "boots": ["atk_pct","hp_pct","def_pct","speed","atk_flat","hp_flat","def_flat"]
+  }
+}

@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+captures/
+runs/
+build/
+dist/
+config/ui.json
+config/ui.*.json
+config/backups/
+frontend/node_modules/
+*.tsbuildinfo
+tools/android-adb/
+*.lnk
+.env
+.env.*
+!.env.example
+# 本地验收记录与账号截图不公开；公众文档单独保留。
+docs/*
+!docs/enhancement-rules.md
+!docs/getting-started.md
+!docs/troubleshooting.md
+!docs/development.md

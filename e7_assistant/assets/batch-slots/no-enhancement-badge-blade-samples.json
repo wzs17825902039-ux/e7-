@@ -1,0 +1,9 @@
+{
+  "source": "runs/selected-inventory-resume-e43561b0/workflow-0079.png",
+  "card_indices": [14,15],
+  "filename_pattern": "no-enhancement-badge-live-blade-{index:02}.png",
+  "enhancement": 0,
+  "reference_size": [1661,933],
+  "crop": "[100+dx,168+dy,140+dx,195+dy]",
+  "evidence": "Visually verified both white blade cards have no enhancement badge. Existing enhanced-badge rejection tests retained; matching thresholds unchanged."
+}
